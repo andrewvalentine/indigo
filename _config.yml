@@ -1,9 +1,8 @@
-name: John Doe
-bio: 'A Man who travels the world eating noodles'
+name: Andrew Valentine
+bio: 'I fix computers. I also do other things on the internet.'
 picture: 'assets/images/profile.jpg'
 
-url: http://sergiokopplin.github.io/indigo
-# your url: http://USERNAME.github.io
+url: http://andrewvalentine.github.io
 permalink: /:title/
 
 markdown: kramdown
@@ -11,14 +10,13 @@ highlighter: rouge
 
 analytics: 'UA-MYANALYTICS'
 disqus: mydisqus
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
-linkedin: mylinkedin
-youtube: myyoutube
-spotify: myspotify
-github: mygithub
-email: myemail@gmail.com
+facebook: facebook.com/a.r.valentine
+twitter: twitter.com/andrewvalentine
+instagram: instagram.com/andrewvalentine
+linkedin: https://uk.linkedin.com/in/andrewvalentine
+spotify: https://open.spotify.com/user/igethitbyemokids
+github: github.com/andrewvalentine
+email: andrew@defaultswrite.co
 
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor]
 
@@ -27,7 +25,7 @@ exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.j
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+#projects: true
 
 gems:
   - jemoji
